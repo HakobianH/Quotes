@@ -5,4 +5,7 @@ Best Sherlock Holmes Quotes
  2. "Watson. Come at once if convenient. If inconvenient, come all the same".
  3. "My name is Sherlock Holmes. It is my business to know what other people do not know".          
  4. "A good detective knows that every task, every interaction, no matter how seemingly banal, has the potential to contain multitudes".
+ 
+ 5. "You see, but you do not observe".
+ 6. "To a great mind, nothing is little".
             
